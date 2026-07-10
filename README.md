@@ -8,9 +8,6 @@ A simple repeating countdown timer designed for classroom and presentation use. 
 #### The Diary of a Chinese Kid
 A lightning design project for my game design class. Clikc [**Here**](https://github.com/StarryDust-02/The-Diary-of-a-Chinese-Kid)
 
-
-
-
 ## Pre-Graduate School
 The following are the game projects I am worked on for my graduate school application.
 
