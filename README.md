@@ -26,3 +26,6 @@ Click [**HERE**](https://github.com/StarryDust-02/Project-Farming-Public) to acc
 #### Bo Kata
 Click [**Here**](https://daniakhan.itch.io/bo-kata) to go to our itch.io page.
 
+#### Campus Food App Design
+Try the prototype [**Here**](https://www.figma.com/proto/7AVrPwCWu8QB6rcDLrpFeb/Campus-Food?node-id=98-27&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=98%3A27&show-proto-sidebar=1)
+
