@@ -3,10 +3,10 @@ This repository contains my personal digital portfolio.
 ## Personal Odd Projects
 
 #### Around the Clock
-A simple repeating countdown timer designed for classroom and presentation use. Clikc [**Here**](https://github.com/StarryDust-02/Around-the-Clock)
+A simple repeating countdown timer designed for classroom and presentation use. Click [**Here**](https://github.com/StarryDust-02/Around-the-Clock)
 
 #### The Diary of a Chinese Kid
-A lightning design project for my game design class. Clikc [**Here**](https://github.com/StarryDust-02/The-Diary-of-a-Chinese-Kid)
+A lightning design project for my game design class. Click [**Here**](https://github.com/StarryDust-02/The-Diary-of-a-Chinese-Kid)
 
 ## Pre-Graduate School
 The following are the game projects I am worked on for my graduate school application.
@@ -14,7 +14,7 @@ The following are the game projects I am worked on for my graduate school applic
 #### Project Crimson Hunters
 Click [**HERE**](https://github.com/StarryDust-02/ProjectCH-Public) to access the current public release of the game. *(edit 7/10/2026) I am attempting to remake the game (more professionally).*
 
-Clikc [**Here**](https://github.com/StarryDust-02/ProjectCH) to access the source code of the game (you might need to request access to this private repository first), or contact me for a downloadable zip file.
+Click [**Here**](https://github.com/StarryDust-02/ProjectCH) to access the source code of the game (you might need to request access to this private repository first), or contact me for a downloadable zip file.
 
 #### Project Farming
 Click [**HERE**](https://github.com/StarryDust-02/Project-Farming-Public) to access a fork of the source code of the game on GitHub.
