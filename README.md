@@ -1,10 +1,13 @@
 This repository contains my personal digital portfolio.
 
-## Game Projects
-The following are the game projects I am working/worked on. You can find the design docs and the design statements [**Here**](https://github.com/StarryDust-02/portfolio/tree/main/Design%20Docs%20and%20Statements).
+## Personal Projects
+
+## Pre-Graduate School
+The following are the game projects I am worked on for my graduate school application.
 
 ### Project Crimson Hunters
 Click [**HERE**](https://github.com/StarryDust-02/ProjectCH-Public) to access the current public release of the game.
+(edit 7/10/2026) I am attempting to remake the game (more professionally this time).
 
 Clikc [**Here**](https://github.com/StarryDust-02/ProjectCH) to access the source code of the game (you might need to request access to this private repository first), or contact me for a downloadable zip file.
 
