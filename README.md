@@ -1,4 +1,4 @@
-This repository contains my personal digital portfolio.
+This repository serves as my personal portfolio and showcases most of my projects, excluding physical projects (such as board games) and projects that are non-disclosable.
 
 ## Graduate School
 
