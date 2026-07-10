@@ -1,5 +1,9 @@
 This repository contains my personal digital portfolio.
 
+## Graduate School
+
+My [essay collection](https://github.com/StarryDust-02/Papers)
+
 ## Personal Odd Projects
 
 #### Around the Clock
