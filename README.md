@@ -1,7 +1,9 @@
-This repository serves as my personal portfolio and showcases most of my projects, excluding physical projects (such as board games) and projects that are non-disclosable.
+This repository serves as my personal portfolio and showcases most of my projects, excluding projects that are non-disclosable.
 
 ## Graduate School
 My [essay collection](https://github.com/StarryDust-02/Papers)
+
+My card game [*For Your Own Good*]()
 
 ## Personal Odd Projects
 
