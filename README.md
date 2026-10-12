@@ -3,7 +3,7 @@ This repository serves as my personal portfolio and showcases most of my project
 ## Graduate School
 My [essay collection](https://github.com/StarryDust-02/Papers)
 
-My card game [*For Your Own Good*]()
+My card game [*For Your Own Good*](https://github.com/StarryDust-02/Portfolio/releases/tag/For-Your-Own-Good)
 
 ## Personal Odd Projects
 
